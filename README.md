@@ -57,7 +57,7 @@ If you prefer to install it manually, you can create a bookmark and paste the co
 2.  **Name the Bookmark:** Give it a name, like `LibCal Blocker`.
 3.  **Paste the Code:** Copy the full code from [this file](https://raw.githubusercontent.com/e3la/libcal-bookmarklet/main/bookmarklet.js) and paste it into the **URL/Location** field of the bookmark.
 
-4.  ## How to Use
+## How to Use
 
 1.  **Navigate to Your Library's Website:** Go to any page on your library's website that is powered by LibCal (like the homepage, hours page, or calendar).
 2.  **Click the Bookmarklet:** Click the `LibCal Blocker` bookmark in your bookmarks bar.
