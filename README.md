@@ -35,6 +35,11 @@ This project was developed using a **"vibecoding"** approach, where the initial 
 *   **Summary Screen:** Review which dates will be included or left out before you download.
 *   **Standard ICS Format:** The generated file is compatible with LibCal, Outlook, Google Calendar, and other standard calendar applications.
 
+## Limitations / What Might Not Work
+
+*   **Timezones:** I've only used it on central time, don't know if it will work otherwise.
+*   **All Library Hours Pages:** It worked on a couple of library sites I tried, but not all. It might work for you. If it doesn't, I recommend to vibecode a new bookmarklet by copying the html source into gemini along with the source code of your library hours page and see if it can figure it out.
+
 ## Installation
 
 The easiest way to install the bookmarklet is from the dedicated installer page.
@@ -58,3 +63,7 @@ If you want to look at the javascript I recommend looking at it in the HTML of t
 ## Public Domain Code - CC0
 
 This is a public domain work because the ai did the heavy lift in the creation.
+
+## Support and Help
+
+This is a vibe coded project, so I won't help you, but the AI of your choice might be able to. Good luck!
