@@ -1,5 +1,6 @@
 # libcal-bookmarklet
 A bookmarklet to block out dates on a libcal calendar when your library is closed.
+**[➡️ Open the Bookmarklet Installer](https://e3la.github.io/libcal-bookmarklet/)**
 
 # LibCal Hours to ICS Bookmarklet
 
