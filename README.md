@@ -38,7 +38,8 @@ This project was developed using a **"vibecoding"** approach, where the initial 
 ## Limitations / What Might Not Work
 
 *   **Timezones:** I've only used it on central time, don't know if it will work otherwise.
-*   **All Library Hours Pages:** It worked on a couple of library sites I tried, but not all. It might work for you. If it doesn't, I recommend to vibecode a new bookmarklet by copying the html source into gemini along with the source code of your library hours page and see if it can figure it out.
+*   **Find Your Library Hours Page** It doesn't do much with weekly views, but if there is a monthly view that works better.
+*   **Other Errors:** You could try vibecoding a new bookmarklet by copying the html source into gemini along with the source code of your library hours page and see if it can figure something out. 
 
 ## Installation
 
