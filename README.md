@@ -47,38 +47,13 @@ Click the link below to open the installer.
 
 ### 2. Drag the Button to Your Bookmarks Bar
 
-Once the page is open, simply click and drag the blue button from that page up to your browser's bookmarks bar.
+Once the page is open, simply click and drag the blue button from that page up to your browser's bookmarks bar. Review the instructions on that page.
 
-### Manual Installation
+### To Examine the Code
 
-If you prefer to install it manually, you can create a bookmark and paste the code in yourself.
+If you want to look at the javascript I recommend looking at it in the HTML of the installer page.
 
-1.  **Create a New Bookmark:** Right-click on your browser's bookmarks bar and select "Add Page" or "New Bookmark".
-2.  **Name the Bookmark:** Give it a name, like `LibCal Blocker`.
-3.  **Paste the Code:** Copy the full code from [this file](https://raw.githubusercontent.com/e3la/libcal-bookmarklet/main/bookmarklet.js) and paste it into the **URL/Location** field of the bookmark.
-
-## How to Use
-
-1.  **Navigate to Your Library's Website:** Go to any page on your library's website that is powered by LibCal (like the homepage, hours page, or calendar).
-2.  **Click the Bookmarklet:** Click the `LibCal Blocker` bookmark in your bookmarks bar.
-3.  **Choose Your Options:** A modal window will appear.
-    *   Select the library location you want to generate the file for, or choose "All Found Libraries".
-    *   Set the "Block time from" and "to" fields to cover your typical appointment hours.
-    *   Customize the event title prefix if desired.
-    *   Click "Generate Summary".
-4.  **Review and Download:**
-    *   On the summary screen, you can see a list of dates that will be included in the `.ics` file.
-    *   Check the "Include Weekends" box if you need to block off Saturdays and Sundays.
-    *   When you're ready, click "Download ICS".
-5.  **Import to LibCal:**
-    *   Go to your LibCal dashboard.
-    *   Navigate to `Appointments` -> `Availability`.
-    *   Under the `Date & Time Availability` section, find the `Add new busy/unavailable times` link and click it.
-    *   Select the **"Upload a File"** option.
-    *   Choose the `.ics` file you just downloaded.
-    *   The dates will be added to your schedule, blocking off your availability.
-
-That's it! You have successfully blocked off all closed dates in just a few clicks.
+1.  **View the Sourcecode:** Of the installer [on this page](https://raw.githubusercontent.com/e3la/libcal-bookmarklet/main/index.html).
 
 ## Public Domain Code - CC0
 
