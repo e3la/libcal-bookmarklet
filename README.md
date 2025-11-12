@@ -12,7 +12,7 @@ LibCal is a fantastic tool for managing library services, including librarian ap
 
 ## The Motivation
 
-Andrew explained he didn't have a secretary and that he would not be blocking out day's the library was closed. I thought this sad, so I made this bookmarklet for Andrew.
+My coworker Andrew explained he didn't have a secretary and that he would not be blocking out days the library was closed on his calendar. I thought this sad, and made the appointment availability page messy, and I realized I also hated doing this by hand, so I made this bookmarklet for Andrew, myself and any other librarian who might want to automate blocking their calendars on the days their library is closed.
 
 ## What is This?
 
